@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "H_A_DEVELOPS Snake Game",
+  "short_name": "Snake Game",
+  "description": "A fun Snake Arcade game by H_A_DEVELOPS. Collect apples, earn coins, unlock levels and customize your snake.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101a17",
+  "theme_color": "#101a17",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "icons/snake-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
